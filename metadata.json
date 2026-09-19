@@ -1,0 +1,6 @@
+{
+  "name": "CollegeSEO - Sequential Audit & QA Automation",
+  "description": "Automated sequential workflow for college page SEO auditing, live page modification, mobile table QA, and Excel queue-lock tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
